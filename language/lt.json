@@ -1,0 +1,7 @@
+{
+  "libraryStrings": {
+    "distributeButtonLabel": "Paskirstykite tolygiai",
+    "distributeButtonWarning": "Visų diapazonų reikšmės bus pakeistos. Ar norite tęsti?",
+    "rangeOutOfSequenceWarning": "Rezultatų diapazonai nenuoseklūs"
+  }
+}
